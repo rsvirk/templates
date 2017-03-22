@@ -3,16 +3,16 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "RandStorage"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "administrator"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "ADmin123_!!!!!!!"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "rsviiippe34343434343"
     }
   }
 }
